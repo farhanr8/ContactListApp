@@ -1,6 +1,3 @@
-# Contact List Application (Spring 2020)
-by Farhan Rahman
-
 This project involves the creation of a database host application that interfaces with a backend SQL database. The data stored and displayed are a contact's name, address, phone, and date. 
 
 ## Demo
